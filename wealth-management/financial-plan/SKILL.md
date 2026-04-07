@@ -1,8 +1,6 @@
 ---
 name: financial-plan
-description: Build or update a comprehensive financial plan covering retirement projections, education funding, estate planning, and cash flow analysis. Use for new client onboarding, annual reviews, or scenario modeling. Triggers on "financial plan", "retirement plan", "can I retire", "education funding", "estate plan", or "cash flow analysis".
-metadata:
-  homepage: https://github.com/anthropics/financial-services-plugins/tree/main/wealth-management
+description: Build or update a comprehensive financial plan covering retirement projections, education funding, estate planning, and cash flow analysis. Use for new client onboarding, annual reviews, or scenario modeling.
 ---
 
 # Comprehensive Financial Plan Builder

@@ -1,8 +1,6 @@
 ---
 name: portfolio-rebalance
-description: Analyze portfolio allocation drift and generate rebalancing trade recommendations across accounts. Considers tax implications, transaction costs, and wash sale rules. Triggers on "rebalance", "portfolio drift", "allocation check", "rebalancing trades", or "portfolio out of balance".
-metadata:
-  homepage: https://github.com/anthropics/financial-services-plugins/tree/main/wealth-management
+description: Analyze portfolio allocation drift and generate rebalancing trade recommendations across accounts. Considers tax implications, transaction costs, and wash sale rules.
 ---
 
 # Portfolio Rebalance Analyzer

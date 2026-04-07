@@ -1,8 +1,6 @@
 ---
 name: tax-loss-harvesting
-description: Identify tax-loss harvesting opportunities across taxable accounts. Finds positions with unrealized losses, suggests replacement securities, and tracks wash sale windows. Triggers on "tax-loss harvesting", "TLH", "harvest losses", "tax losses", "unrealized losses", or "year-end tax planning".
-metadata:
-  homepage: https://github.com/anthropics/financial-services-plugins/tree/main/wealth-management
+description: Identify tax-loss harvesting opportunities across taxable accounts. Finds positions with unrealized losses, suggests replacement securities, and tracks wash sale windows.
 ---
 
 # Tax-Loss Harvesting Analyzer

@@ -1,8 +1,6 @@
 ---
 name: client-review
-description: Prepare for client review meetings with portfolio performance summary, allocation analysis, talking points, and action items. Use before quarterly reviews, annual checkups, or ad-hoc client meetings. Triggers on "client review", "meeting prep", "quarterly review", or "client meeting".
-metadata:
-  homepage: https://github.com/anthropics/financial-services-plugins/tree/main/wealth-management
+description: Prepare for client review meetings with portfolio performance summary, allocation analysis, talking points, and action items. Use before quarterly reviews or ad-hoc client meetings.
 ---
 
 # Client Review Meeting Prep

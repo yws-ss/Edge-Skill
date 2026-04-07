@@ -1,8 +1,6 @@
 ---
 name: investment-proposal
-description: Create professional investment proposals for prospective clients. Covers the firm's approach, proposed allocation, expected outcomes, and fee structure. Triggers on "investment proposal", "prospect presentation", "pitch new client", "proposal", or "new client presentation".
-metadata:
-  homepage: https://github.com/anthropics/financial-services-plugins/tree/main/wealth-management
+description: Create professional investment proposals for prospective clients. Covers the firm approach, proposed allocation, expected outcomes, and fee structure.
 ---
 
 # Investment Proposal Creator
